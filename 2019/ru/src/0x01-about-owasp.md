@@ -20,8 +20,8 @@ At OWASP, you'll find free and open:
 * [Mailing lists][5].
 
 В OWASP вы найдете открытые и бесплатные:
-* Инструменты и стандарты по безопасности разработки ПО.
-* Полноценные книги по тестированию безопасности, разработке безопасного кода и анализу безопасности кода.
+* Инструменты и стандарты по безопасности приложений.
+* Полноценные книги по тестированию безопасности, разработке безопасного кода и код ревью на безопасность.
 * Презентации и [видео][1].
 * [Списки с подсказками (Cheat sheets)][2] на разные темы.
 * Стандартизированные меры безопасности и библиотеки.
@@ -35,22 +35,22 @@ Learn more at: [https://www.owasp.org][6].
 
 All OWASP tools, documents, videos, presentations, and chapters are free and
 open to anyone interested in improving application security.
-Все инструменты, документы, видео, презентации и отделения OWASP бесплатны и открыты для всех, заинтересованных в улучшении безопасности разработки ПО.
+Все инструменты, документы, видео, презентации и отделения OWASP бесплатны и открыты для всех заинтересованных в улучшении безопасности приложений.
 
 We advocate approaching application security as a people, process, and
 technology problem, because the most effective approaches to application
 security require improvements in these areas.
-Мы выступаем за подход к безопасности к разработке ПО как к проблеме на уровне людей, процессов и технологий, поскольку наиболее эффективные подходы к безопасности разработки ПО подразумевают улучшения на всех этих уровнях.
+Мы выступаем за подход к безопасности приложений как к проблеме на уровне людей, процессов и технологий, поскольку наиболее эффективные методы обеспечения безопасности приложений требуют улучшения на всех этих уровнях.
 
 OWASP is a new kind of organization. Our freedom from commercial pressures
 allows us to provide unbiased, practical, and cost-effective information about
 application security.
-OWASP - это новый вид организации. Наша свобода от давления коммерческими организациями позволяет нам предоставлять беспристрастную, практичную и экономически оправданную информацию о разработке ПО.
+OWASP - это новый вид организации. Наша свобода от давления коммерческих организаций позволяет нам предоставлять беспристрастную, практичную и экономически оправданную информацию о безопасности приложений.
 
 OWASP is not affiliated with any technology company, although we support the
 informed use of commercial security technology. OWASP produces many types of
 materials in a collaborative, transparent, and open way.
-OWASP не аффилирован ни с какими технологическими компаниям, однако мы поддерживаем информированное использование коммерческих технологий по безопасности. OWASP создает множество материалов коллективным, прозрачным и открытым способом.
+OWASP не аффилирован ни с какими технологическими компаниям, однако мы поддерживаем использование материалов в коммерческих технологиях безопасности. OWASP создает множество материалов коллективным, прозрачным и открытым способом.
 
 The OWASP Foundation is the non-profit entity that ensures the project's
 long-term success. Almost everyone associated with OWASP is a volunteer,
@@ -65,12 +65,12 @@ Come join us!
 
 ![license](images/license.png)
 
-Право инелектуальной собственности © 2003-2019 The OWASP Foundation. This document is released under the
+Copyright © 2003-2019 The OWASP Foundation. This document is released under the
 [Creative Commons Attribution Share-Alike 4.0 license][7]. For any reuse or
 distribution, you must make it clear to others the license terms of this work.
 
 Copyright © 2003-2019 The OWASP Foundation. Этот документ выпущен в соответствии с
-[лицензией Creative Commons Attribution Share-Alike 4.0][7]. При переиспользовании или распространении вы обязаны разъяснить условия лицензии настоящейго документа.
+[лицензией Creative Commons Attribution Share-Alike 4.0][7]. При переиспользовании или распространении вы обязаны разъяснить условия лицензии данного документа.
 
 [1]: https://www.youtube.com/user/OWASPGLOBAL
 [2]: https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
